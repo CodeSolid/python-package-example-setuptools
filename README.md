@@ -1,4 +1,6 @@
-# Python Package Example
+# hellosetup :: A Python Package Example
+
+This is a minimal starter project for a setuptools project.
 
 This project is a companion to the [Python Package Example: Setuptools](https://codesolid.com/python-package-example-setuptools).
 
