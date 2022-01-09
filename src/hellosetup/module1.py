@@ -5,4 +5,5 @@ def get_article_url():
     return "https://codesolid.com/python-package-example-setuptools"
 
 def greet():
+    """Say hi to setuptools so as not to appear rude"""
     return "Hello, setuptools!"
