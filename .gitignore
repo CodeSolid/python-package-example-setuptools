@@ -153,6 +153,7 @@ cython_debug/
 
 # VSCode
 *.code-workspace
+.vscode
 
 # Documentation snippets
 writings.md
